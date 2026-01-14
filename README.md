@@ -54,8 +54,8 @@ Hardware Debouncing: Implemented software-side state management for the 12-butto
 
 Data Integrity: Managing high-speed serial communication (Baud rate optimization) to prevent MIDI message jitter.
 
-## 📫 ##Contact
+## 📫 Contact
 
-Joel Felipe Suárez Vidarte LinkedIn | Email
+Joel Felipe Suárez Vidarte | joelfelipesv@gmail.com
 
 Developed as part of an exploration into Human-Computer Interaction (HCI) and Embedded Systems.

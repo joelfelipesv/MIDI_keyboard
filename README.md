@@ -6,6 +6,12 @@ A high-performance hardware-software interface designed for digital music produc
 
 This MIDI controller was built using the AtMega2560 micro-architecture to handle high-density digital and analog inputs with sub-10ms latency. Encased in a custom acrylic shell, it provides a tactile and visual experience for professional music production in software like Ableton Live, FL Studio, or Reaper.
 
+## 📺 Project Demonstration
+
+https://drive.google.com/file/d/16P7P_A88qJauPF6SK-3HgWP7FetkJBey/view?usp=sharing
+
+_Note: The demonstration video is in Spanish, showcasing the real-time latency and UI feedback of the device._
+
 ## 🛠️ Technical Specifications
 
 Microcontroller: AtMega2560 (8-bit AVR).
